@@ -3,13 +3,13 @@ const Footer = () => {
     <footer className=" fixed-bottom d-flex justify-content-center bg-dark text-white text-center container">
       <nav>
         <a
-          href="https://www.youtube.com/watch?v=f6UkvPAYctA"
+          href="www.sonmyd.com"
           rel="noopener noreferrer "
         >
-          Yutu
+          sonmyd
         </a>
         <br />
-        <p>@Elrepapu Inc.</p>
+        <p>@sonmyd Inc.</p>
       </nav>
     </footer>
   );
